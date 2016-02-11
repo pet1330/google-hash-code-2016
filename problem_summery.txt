@@ -1,0 +1,10 @@
+Each cell is identified by a pair of integer coordinates [r, c] ( 0 ≤ r < row count, 0 ≤ c < column count ).
+
+Each warehouse initially stocks a known number of product items of each product type
+
+drones can transport product items between the warehouses.
+
+The order is considered fulfilled when all of the ordered product items are delivered. Individual product items can be delivered in multiple steps, in any order. It is valid to deliver the individual product items of an order using multiple drones, including using different drones at the very same time.
+
+It is not required to deliver all orders (see the Scoring section at the end).
+
